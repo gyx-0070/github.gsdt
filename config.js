@@ -13,7 +13,7 @@ var config = {
             id: '1',
             alignment: 'full',
             title: '红色李巷',
-            image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2015-06-19_Glacier_National_Park_%28U.S.%29_8633.jpg/800px-2015-06-19_Glacier_National_Park_%28U.S.%29_8633.jpg',
+            image: '1 .jpg',
             description: '李巷村位于南京主城南部、溧水东南部白马镇石头寨社区，距溧水城区26公里，距南京中心城区60公里。 由南京市委宣传部、市规划局、市建委联合主办的“南京十大地标评选活动”子榜单出炉，对外开放仅9个月的溧水红色李巷成功入选“南京十大红色文化地标”，与雨花台烈士陵园、渡江胜利纪念馆等知名红色场馆共获此殊荣。红色李巷堪称“红色文化地标界”的后起之秀。',
             location: {
                 center: [119.148156,31.530391],
